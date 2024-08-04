@@ -1,2 +1,2 @@
 # Tribute-page
-Dr.A.P.J.Abdulkalam
+DR.A.P.J.Abdulkalam
